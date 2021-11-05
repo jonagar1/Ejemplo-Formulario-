@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en" style="background: rgb(237, 182, 100);" style="font-family: Georgia, 'Times New Roman', Times, serif;">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>formulario</title>
+<STYLE type="text/css">
+    P {border-width: 1px; border: solid; text-align: cent 
+    H1.miclase {border-width: 1px; border: solid; text-al
+
+  center} 
+  SPAN. ver-ex {front-variant: small-caps }
+  </style>
+  <link real="shortcut icon" 
+href="https://algunsitio.com/prog/usuarionuevo"
+method="post">
+      <p> 
+      <label for="nombre">nombre: </LABEL>
+               <INPUT type="text" id="nombre"><BR>
+      <label for="apellido">nombre: </LABEL>
+                <INPUT type="text" id="apeliido"><BR>
+      <label for="email">email: </LABEL>
+                <INPUT type="text" id="email"><BR>
+               <INPUT type="radio" name="sexo" value="Varón"> Varón< 
+               <INPUT type="radio" name="sexo" value="Mujer"> Mujer< 
+               <INPUT_type="submit" value="Enviar"> <INPUT type="res 
+               </P>
+       </FROM><br><br><br>
+       <FORM action="htttp://algunsitio.com/prog/usuarionuevo"
+method="post">
+       ...contenidos formulario...>
+</html>
